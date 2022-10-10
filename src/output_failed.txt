@@ -2,4 +2,4 @@ empty url
 http://links.qatl.ru/links/502gateaway502.php 	is FAILED with return code: 502
 http://links.qatl.ru/links/access401unauthorized.php 	is FAILED with return code: 401
 http://links.qatl.ru/links/deny403forbidden.php 	is FAILED with return code: 403
-Urls failed: 4 (Mon Oct 10 23:04:39 MSK 2022)
+Urls failed: 4 (Mon Oct 10 23:21:01 MSK 2022)
